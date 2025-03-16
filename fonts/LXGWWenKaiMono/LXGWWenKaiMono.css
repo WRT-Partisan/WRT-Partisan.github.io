@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'LXGWWenKaiMono';
+    src: local('LXGWWenKaiMono'),
+    local('LXGWWenKaiMono'),
+    /* url('GeistVF.woff2') format('woff2'),
+    url('GeistVF.woff') format('woff'), */
+    url('LXGWWenKaiMono-Light.ttf') format('truetype');
+    font-weight: 200 700;
+    font-display: swap;
+    font-style: normal;
+}
