@@ -2,3 +2,8 @@
     font-family: 'LXGWWenKaiMono-Regular';
     src: url('LXGWWenKaiMono-Regular.ttf');
 }
+
+@font-face {
+    font-family: 'LXGWWenKaiMono-Medium';
+    src: url('LXGWWenKaiMono-Medium.ttf');
+}
