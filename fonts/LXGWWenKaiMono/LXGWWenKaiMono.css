@@ -7,3 +7,7 @@
     font-family: 'LXGWWenKaiMono-Medium';
     src: url('LXGWWenKaiMono-Medium.ttf');
 }
+
+body {
+    font-family: 'LXGWWenKaiMono-Regular';
+}
